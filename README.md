@@ -56,7 +56,7 @@ It is optimized for:
 │   │
 │   └── 📁 Design-Patterns
 │       ├── 📁 Creational
-│       │   ├── ⬜ Simple Factory
+│       │   ├── ✅ Simple Factory
 |       |   |── ⬜ Factory Mathod
 │       │   ├── ⬜ Abstract Factory
 │       │   ├── ⬜ Builder
