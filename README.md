@@ -56,12 +56,12 @@ It is optimized for:
 │   │
 │   └── 📁 Design-Patterns
 │       ├── 📁 Creational
-│       │   ├── ⬜ Singleton
 │       │   ├── ⬜ Simple Factory
 |       |   |── ⬜ Factory Mathod
 │       │   ├── ⬜ Abstract Factory
 │       │   ├── ⬜ Builder
 │       │   └── ⬜ Prototype
+|       │   ├── ⬜ Singleton
 │       │
 │       ├── 📁 Structural
 │       │   ├── ⬜ Adapter
