@@ -1,0 +1,10 @@
+package P4_Design_Patterns.P1_Creational.P3_Abstract_Factory.E1_Gui.Refactored_Code.controls.impl;
+
+import P4_Design_Patterns.P1_Creational.P3_Abstract_Factory.E1_Gui.Refactored_Code.controls.ITextbox;
+
+public class WinTextBox implements ITextbox {
+    @Override
+    public void setText() {
+        System.out.println("Setting text in Win Textbox");
+    }
+}
