@@ -168,6 +168,12 @@ public class Main {
 
 ---
 
+## UML Diagram
+
+<img width="1122" height="528" alt="Image" src="https://github.com/user-attachments/assets/d92fbe8a-a0e0-4341-a9f3-281face9fe25" />
+
+---
+
 ## 🧠 Key Learnings
 
 ### 1. Decoupled Request Handling
