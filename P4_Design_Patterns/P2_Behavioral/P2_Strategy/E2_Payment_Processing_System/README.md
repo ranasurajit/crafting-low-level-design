@@ -110,6 +110,12 @@ public class Client {
 
 ---
 
+## UML Diagram
+
+<img width="945" height="585" alt="Image" src="https://github.com/user-attachments/assets/addc28ed-1279-49ed-b8fc-f8ef6d033c23" />
+
+---
+
 ## 🚀 Improvements Achieved
 
 ### ✅ Eliminated Conditional Logic
